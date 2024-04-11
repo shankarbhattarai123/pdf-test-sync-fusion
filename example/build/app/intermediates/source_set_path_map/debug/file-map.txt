@@ -1,0 +1,19 @@
+com.syncfusion.flutter.pdfviewer.example.app-jetified-window-java-1.0.0-beta04-0 C:\Users\ASUS\.gradle\caches\transforms-3\2bd4bcf7edde35867619ac3bea578f90\transformed\jetified-window-java-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.example.app-jetified-window-1.0.0-beta04-1 C:\Users\ASUS\.gradle\caches\transforms-3\518111e08d93c16bc666f5016f25f03d\transformed\jetified-window-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.example.app-browser-1.5.0-2 C:\Users\ASUS\.gradle\caches\transforms-3\6912cac4a321b07bdf803772b8de567d\transformed\browser-1.5.0\res
+com.syncfusion.flutter.pdfviewer.example.app-core-1.10.1-3 C:\Users\ASUS\.gradle\caches\transforms-3\6ee4246d9abac3f2706798696b169c47\transformed\core-1.10.1\res
+com.syncfusion.flutter.pdfviewer.example.app-jetified-annotation-experimental-1.3.0-4 C:\Users\ASUS\.gradle\caches\transforms-3\be6fcf85dcecb8bd53c9f90aa92aeba4\transformed\jetified-annotation-experimental-1.3.0\res
+com.syncfusion.flutter.pdfviewer.example.app-lifecycle-runtime-2.3.1-5 C:\Users\ASUS\.gradle\caches\transforms-3\d527349b99caec46f6a37ce2d52a171e\transformed\lifecycle-runtime-2.3.1\res
+com.syncfusion.flutter.pdfviewer.example.app-debug-6 D:\dallo Tech\syncfusion_flutter_pdf\example\android\app\src\debug\res
+com.syncfusion.flutter.pdfviewer.example.app-main-7 D:\dallo Tech\syncfusion_flutter_pdf\example\android\app\src\main\res
+com.syncfusion.flutter.pdfviewer.example.app-pngs-8 D:\dallo Tech\syncfusion_flutter_pdf\example\build\app\generated\res\pngs\debug
+com.syncfusion.flutter.pdfviewer.example.app-resValues-9 D:\dallo Tech\syncfusion_flutter_pdf\example\build\app\generated\res\resValues\debug
+com.syncfusion.flutter.pdfviewer.example.app-rs-10 D:\dallo Tech\syncfusion_flutter_pdf\example\build\app\generated\res\rs\debug
+com.syncfusion.flutter.pdfviewer.example.app-mergeDebugResources-11 D:\dallo Tech\syncfusion_flutter_pdf\example\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.syncfusion.flutter.pdfviewer.example.app-mergeDebugResources-12 D:\dallo Tech\syncfusion_flutter_pdf\example\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.syncfusion.flutter.pdfviewer.example.app-merged_res-13 D:\dallo Tech\syncfusion_flutter_pdf\example\build\app\intermediates\merged_res\debug
+com.syncfusion.flutter.pdfviewer.example.app-packaged_res-14 D:\dallo Tech\syncfusion_flutter_pdf\example\build\device_info_plus\intermediates\packaged_res\debug
+com.syncfusion.flutter.pdfviewer.example.app-packaged_res-15 D:\dallo Tech\syncfusion_flutter_pdf\example\build\path_provider_android\intermediates\packaged_res\debug
+com.syncfusion.flutter.pdfviewer.example.app-packaged_res-16 D:\dallo Tech\syncfusion_flutter_pdf\example\build\shared_preferences_android\intermediates\packaged_res\debug
+com.syncfusion.flutter.pdfviewer.example.app-packaged_res-17 D:\dallo Tech\syncfusion_flutter_pdf\example\build\syncfusion_flutter_pdfviewer\intermediates\packaged_res\debug
+com.syncfusion.flutter.pdfviewer.example.app-packaged_res-18 D:\dallo Tech\syncfusion_flutter_pdf\example\build\url_launcher_android\intermediates\packaged_res\debug

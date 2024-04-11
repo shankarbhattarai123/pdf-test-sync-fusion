@@ -1,0 +1,1 @@
+ E:\\Importants\\syncfusion_flutter_pdfviewer-24.1.47\\example\\.dart_tool\\flutter_build\\53e2894752155835e3e5878b842bd9aa\\native_assets.yaml: 

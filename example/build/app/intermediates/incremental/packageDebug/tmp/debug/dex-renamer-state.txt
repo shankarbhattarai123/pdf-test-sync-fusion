@@ -1,0 +1,4 @@
+#Wed Mar 27 16:34:51 NPT 2024
+base.0=D\:\\dallo Tech\\syncfusion_flutter_pdf\\example\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
